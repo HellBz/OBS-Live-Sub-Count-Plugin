@@ -1,0 +1,1 @@
+setInterval(function(){$.ajax({url:"update.php",data:"",dataType:"json",success:function(a){var t=a[2];$("#verification").html("(<b>"+t+"</b>)")}})},5);
