@@ -1,10 +1,12 @@
 How to use:
 
-Install xampp from https://www.apachefriends.org/index.html,
+Install xampp from https://www.apachefriends.org/index.html
 
-Extract the code in htdocs,
+Extract the code in htdocs
 
-Go to update.php and change the youtube username to your's,
+Go to update.php and change the youtube username to your's
+
+Add your API Key to update3.php
 
 Open OBS,
 
